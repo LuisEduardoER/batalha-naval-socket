@@ -1,0 +1,1 @@
+Implementar um jogo em java que utilize socket para cadeira de redes com o objetivo de aprender protocos de rede.
